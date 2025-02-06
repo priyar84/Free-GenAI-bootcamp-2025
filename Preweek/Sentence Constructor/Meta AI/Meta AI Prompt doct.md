@@ -33,7 +33,7 @@ The table of vocabulary should only have the following columns:
 [ (anata)] + [ (wa)] + [ (gomi)] + [ (o)] + [ (oku)] + [ (soto)] + ?
 
 ## Clues given: 
-The verb (imasu) is used to describe the location of the bears.
-The verb (oku) is used in the past tense to ask if someone left something.
-The particle (ni) is used to indicate the location of the bears.
-The particle (o) is used to mark the object that was left.
+- The verb (imasu) is used to describe the location of the bears.
+- The verb (oku) is used in the past tense to ask if someone left something.
+- The particle (ni) is used to indicate the location of the bears.
+- The particle (o) is used to mark the object that was left.
