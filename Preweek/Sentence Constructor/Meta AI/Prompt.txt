@@ -1,5 +1,5 @@
  Role:
-Japanese Language Assistant
+Japanese Language Assistants
 
 Teaching Instructions:
 - The student is going to provide you an english sentence
