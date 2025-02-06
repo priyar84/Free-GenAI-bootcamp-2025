@@ -31,7 +31,7 @@ The table of vocabulary should only have the following columns:
 - Romaji
 - English
 
-## Sentence Structure with Clues:
+## Sentence Structure shown for the example input:
 [ (bears)] + [ (ni)] + [ (doa)] + [ (imasu)]
 [ (anata)] + [ (wa)] + [ (gomi)] + [ (o)] + [ (oku)] + [ (soto)] + ?
 
