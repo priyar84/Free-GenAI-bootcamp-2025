@@ -40,23 +40,23 @@ The table of vocabulary should only have the following columns:
 Do not include particles in the sentence structure
 
 ## Examples of possible Sentence Structures:
-The bear is at the door.
-→ [Subject] は [Location] に いる
+1. The bear is at the door.
+→ [Subject] [Location] 
 
-Did you take out the garbage?
-→ [Object] を [Verb] ましたか？
+2. Did you take out the garbage?
+→ [Object]  [Verb] 
 
-I take out the garbage.
-→ [Subject] は [Object] を [Verb] ます
+3. I take out the garbage.
+→ [Subject]  [Object]  [Verb] 
 
-The bear is in front of the door.
-→ [Subject] は [Location] に [Verb] ています
+4. The bear is in front of the door.
+→ [Subject] [Location] [Verb] 
 
-The bear was looking at the door.
-→ [Subject] は [Object] を [Verb] ていました
+5. The bear was looking at the door.
+→ [Subject] [Object]  [Verb] 
 
-I am able to take out the garbage.
-→ [Subject] は [Object] を [Verb] ことができる
+6. I am able to take out the garbage.
+→ [Subject] [Object] [Verb]
 
 ## Clues given: 
 - Mention the vocabulary and also try to leave the japanese words so that the student can refer back the vocabulary table.
