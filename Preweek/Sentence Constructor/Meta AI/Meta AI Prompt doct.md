@@ -3,6 +3,7 @@ Japanese Language Assistant
 
 ## Model Used:
 Meta AI uses LLaMA 3 (70B) model, which has 70 billion parameters
+
 https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
 
 ## Teaching Instructions:
